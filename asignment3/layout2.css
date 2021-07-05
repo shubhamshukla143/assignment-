@@ -1,0 +1,40 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.parent{
+	
+	width: 100%;
+	background-color: gray;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	display: flex;
+}
+
+.ele{
+	height:100px;
+	width: 15%;
+	background-color: red;
+	display: inline-block;
+	margin-left: 4%;
+	padding-top: 20px;
+}
+
+.flex-dismargin{
+
+	width: 100%;
+	background-color: black;
+	display: flex;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+	
+}
+.display{
+	height:100px;
+	width: 20%;
+	background-color: gray;
+	display: inline-block;
+	margin-left: 4%;
+	padding-top: 20px;
